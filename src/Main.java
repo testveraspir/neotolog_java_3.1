@@ -7,7 +7,7 @@ public class Main {
         берём тип int
          */
         int costTicket = 56_054; // стоимость билета
-        int amountMile = costTicket/20; //количество милей за данную стоимость билета
-        System.out.println("За купленной билет в стоимость:" + costTicket + " руб." + "  Вам начислили:" +amountMile+ " миль");
+        int amountMile = costTicket / 20; //количество милей за данную стоимость билета
+        System.out.println("За купленной билет в стоимость:" + costTicket + " руб." + "  Вам начислили:" + amountMile + " миль");
     }
 }
